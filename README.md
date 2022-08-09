@@ -1,8 +1,8 @@
-## Meu Portfólio
+# Meu Portfólio
 
 
 
-# Descrição
+## Descrição
 
 Portfólio criado para publicar os trabalhos e projetos desenvolvidos durante minha carreira como Dev Front-end.
 
